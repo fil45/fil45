@@ -4,7 +4,6 @@
 <h3 align="center">Contacts:</h3>
 <p align="center">
 <a href="mailto:filenko45@gmail.com"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Email" height="40" width="40" /></a>
-<a href="skype:live:filenko45?chat" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384058.png" alt="Skype" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/serhii-filenko-139a16244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
