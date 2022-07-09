@@ -1,4 +1,4 @@
-<a href="https://github.com/fil45"><img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" height="350" width="1200" /></a>
+<a href="https://github.com/fil45"><img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" width="1200" /></a>
 <h1 align="center">Hi 👋, I'm Serhii Filenko</h1>
 <h3 align="center">Web developer at Apriorit from Ukraine 🇺🇦</h3>
 
