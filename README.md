@@ -1,4 +1,4 @@
-![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+![MasterHead](https://www.charpeni.com/_next/image?url=%2Fstatic%2Fimages%2Farrow-functions-in-class-properties-might-not-be-as-great-as-we-think%2Fbanner.gif&w=1920&q=75)
 <h1 align="center">Hi 👋, I'm Serhii Filenko</h1>
 <h3 align="center">Web developer at Apriorit from Ukraine 🇺🇦</h3>
 
